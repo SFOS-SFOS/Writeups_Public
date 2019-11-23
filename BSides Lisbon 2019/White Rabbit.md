@@ -8,7 +8,7 @@
 
 ## Inital Analysis
 
-The file neo is given.
+The file [neo](Files/neo) is given.
 
 ## Development
 
@@ -32,7 +32,7 @@ Since word documents work like zip files, we can just unzip it.
 
 ![Word](Images/White_Rabbit_3.jpg)
 
-We can quickly notice it has macros embedded into it, soo we can use oletools, namely the olevba tool to extract whats inside the macro.
+We can quickly notice it has macros embedded into it, so we can use oletools, namely the olevba tool to extract whats inside the macro.
 
 The oletools can be found in the following repository:
 

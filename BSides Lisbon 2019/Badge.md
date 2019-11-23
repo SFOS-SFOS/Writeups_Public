@@ -8,9 +8,7 @@
 
 ## Inital Analysis
 
-The files hf-md-CDEF213E-data.bin and peer.pub.pem are given.
-
-Along with a string that they claim is encrypted with a certain secret (and is the flag we need).
+The files [hf-md-CDEF213E-data.bin](Files/hf-mf-CDEF213E-data.bin) and [peer.pub.pem](Files/peer.pub.pem) are given, along with a string that they claim is encrypted with a certain secret (and is the flag we need).
 
 > U2FsdGVkX1+Qlg+jo0OYPaW0F5XVKOj//d5P2pGgzjoxEr23fxgv5AwAFQ/cJSNtxE0Od/wlFaTYTasywLVUpKmkaRZP9swYotNQpW6J5fD/G5DTpbKwF4LOFcpMAZ25
 
